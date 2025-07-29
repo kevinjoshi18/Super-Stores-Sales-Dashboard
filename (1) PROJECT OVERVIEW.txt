@@ -1,0 +1,40 @@
+# POWER BI PROJECT 1-->
+
+PROJECT OBJECTIVE :
+
+==> To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
+
+DESRIPTION :
+
+(1) Dashboard Creation : 
+
+==> Identify the KPI's, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore data at various levels of granularity.
+
+(2) Data Analysis :
+
+==> Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts.
+
+(3) Sales Forecasting :
+
+==> Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days.
+
+(4) Actionable Insights and Recommendations :
+
+==> End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer's satisfaction.
+
+PROCESS :
+
+==> The first step is Data Overview.
+==> Second step is data cleaning. Here we Transform the Data in the Power Query editor.
+
+   --> Transform - View Data type.
+   --> View - Column Quality.(It is used to check the null Quantities or values.)
+   --> To remove duplicates - Home --> Remove rows --> Remove duplicates.
+   --> Dax Queries are written in data view option.
+   --> To create a relationship with tables, model view is used.
+
+==> Finally we have created the Dashboard.
+
+CONCLUSION :
+
+==> Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive sales dashboard creation, driving the business success.
